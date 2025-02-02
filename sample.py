@@ -1,1 +1,1 @@
-print("Git MFs")
+print("Git is MFs")
